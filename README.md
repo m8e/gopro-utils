@@ -1,3 +1,7 @@
+Also see this fork:
+https://github.com/JuanIrache/gopro-utils
+
+
 GoPro Metadata Format Parser
 ============================
 
